@@ -12,6 +12,7 @@ In truth, it's selfish to say that they are ours because they belong to the comm
 
 - [enygmah](https://github.com/hotaydev/enygmah): Security and quality analysis tool for projects. It's easy to integrate and incredibly useful!
 - [Useful Resources](https://github.com/hotaydev/hotaydev.github.io): Documentation for a set of tools and useful resources utilized by Hotay and shared with the community.
+- [audit-export](https://www.npmjs.com/package/audit-export): An NPM package that is lightweight and works fully offline that exports the results of `npm audit` to an HTML file.
 - The CLI: Automation tool for multiple environments in large projects, composed of various services. Still in internal development.
 
 We have great affection for everyone who contributes to the development of these projects 🫶🏼.
