@@ -6,12 +6,13 @@ We are a Brazilian company that develops and contributes to Open Source projects
 
 Moreover, we would love to have your contribution to our projects, whether through an issue, a pull request, or sponsorship 😉.
 
+> We're here to build a better world, one open-source code at a time.
+
 ### 🌱 Our creations.
 
 In truth, it's selfish to say that they are ours because they belong to the community, and that's exactly how we want it. We initiate these projects, but we rely on community contributions to make them even better!
 
-- [enygmah](https://github.com/hotaydev/enygmah): Security and quality analysis tool for projects. It's easy to integrate and incredibly useful!
-- [Avalia](https://github.com/hotaydev/avalia): System for science fairs metrics evaluation, create for Brazilian scientific initiation fairs.
+- [Avalia](https://github.com/hotaydev/avalia): System for science fairs evaluations management, created for Brazilian scientific fairs.
 - [audit-export](https://www.npmjs.com/package/audit-export): An NPM package that is lightweight and works fully offline that exports the results of `npm audit` to an HTML file.
 - [git-hook-creator](https://www.npmjs.com/package/git-hook-creator): A tool to easily create git hooks for NodeJS projects, simple as running `npx create-hook`.
 
