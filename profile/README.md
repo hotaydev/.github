@@ -12,9 +12,10 @@ Moreover, we would love to have your contribution to our projects, whether throu
 
 In truth, it's selfish to say that they are ours because they belong to the community, and that's exactly how we want it. We initiate these projects, but we rely on community contributions to make them even better!
 
-- [Avalia](https://github.com/hotaydev/avalia): System for science fairs evaluations management, created for Brazilian scientific fairs.
+- [Avalia](https://avalia.hotay.dev/docs/): System for science fairs evaluations management, created for Brazilian scientific fairs.
 - [audit-export](https://www.npmjs.com/package/audit-export): An NPM package that is lightweight and works fully offline that exports the results of `npm audit` to an HTML file.
-- [git-hook-creator](https://www.npmjs.com/package/git-hook-creator): A tool to easily create git hooks for NodeJS projects, simple as running `npx create-hook`.
+- [git-hook-creator](https://www.npmjs.com/package/git-hook-creator): A tool to easily create git hooks for NodeJS projects, as simple as running `npx create-hook`.
+- [mk](https://github.com/hotaydev/mk): A handy tool to create a directory and enter it, reducing two commands to one.
 
 We have great affection for everyone who contributes to the development of these projects 🫶🏼.
 
