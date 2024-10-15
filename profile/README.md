@@ -14,6 +14,8 @@ In truth, it's selfish to say they are ours because they belong to the community
 
 - [Avalia](https://avalia.hotay.dev/docs/): System for science fairs evaluations management, created for Brazilian scientific fairs.
 - [audit-export](https://www.npmjs.com/package/audit-export): An NPM package that is lightweight and works fully offline that exports the results of `npm audit` to an HTML file.
+- [D&D Beyond Kit](https://github.com/hotaydev/dnd-beyond-kit): Browser Extension to translate character pages in [D&D Beyond](https://dndbeyond.com/), use SI metrics, and add new functionalities.
+- [YouTube Shorts Blocker](https://github.com/hotaydev/youtube-shorts-blocker): Browser Extension block YouTube Shorts, avoiding distractions with addicting short videos.
 - [git-hook-creator](https://www.npmjs.com/package/git-hook-creator): A tool to easily create git hooks for NodeJS projects, as simple as running `npx create-hook`.
 - [mk](https://github.com/hotaydev/mk): A handy tool to create a directory and enter it, reducing two commands to one.
 
